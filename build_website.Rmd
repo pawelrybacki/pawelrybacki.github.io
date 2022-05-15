@@ -1,0 +1,35 @@
+---
+title: "build"
+author: "Pawel Rybacki"
+date: '2022-05-14'
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Build my personal/professional website
+
+URL: https://pawelrybacki.github.io
+
+```{r}
+# install.packages("blogdown") # install the blogdown package
+library(blogdown) # load blogdown
+```
+
+```{r eval=FALSE, include=FALSE}
+new_site(theme = "wowchemy/starter-academic") # create your website!
+```
+
+## Sources:
+https://shilaan.rbind.io/post/building-your-website-using-r-blogdown/
+
+Check the files and do all the TODO items.
+```{r}
+blogdown::check_site()
+```
+
+```{r}
+blogdown::serve_site()
+```
