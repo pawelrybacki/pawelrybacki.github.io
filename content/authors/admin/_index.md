@@ -7,7 +7,7 @@ interests:
   - Cultural Economics
   - Data Science
   - Interdisciplinary Social Science Research
-  - Public Policy.
+  - Public Policy
 social:
   - icon: envelope
     icon_pack: fas
