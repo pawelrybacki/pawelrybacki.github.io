@@ -36,6 +36,10 @@ highlight_name: true
 title: Paweł Rybacki
 email: ""
 ---
+The website is under construction. As of now, not all information is accurate, and some reflects the content of the original template.
+
+
+
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "assets/media/pawel-rybacki-resume-2022-may-s2-ds.pdf" "newtab" >}}resumé{{< /staticref >}}.
