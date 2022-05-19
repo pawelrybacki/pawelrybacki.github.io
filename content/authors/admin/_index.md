@@ -1,6 +1,6 @@
 ---
 role: Impact-Oriented Social Scientist
-avatar_filename: luminarneo-small.jpg
+avatar_filename: luminarneo-small-copy.jpg
 bio: Lorem ipsum dolor sit amet.
 interests:
   - Financial Technology
@@ -38,4 +38,4 @@ email: ""
 ---
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "assets/media/pawel-rybacki-resume-2022-may-s2-ds.pdf" "newtab" >}}resumé{{< /staticref >}}.
