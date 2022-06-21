@@ -16,30 +16,26 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-  - description:
-    icon: r-project
-    icon_pack: fab
-    name: R
-  - description:
-    icon: signal-good
-    icon_pack: fab
-    name: Stata
-  - description: 
-    icon: chart-line
-    icon_pack: fas
-    name: Regression Analysis
-  - description:
-    icon: circle-nodes
-    icon_pack: fas
-    name: Network Analysis
-    - description:
-    icon: square-poll-vertical
-    icon_pack: fas
-    name: Data Visualization
-    - description: Data Collection, Survey Design, Proposal Writing, Result Reporting
-    icon: memo
-    icon_pack: fas
-    name: Research Design
+  - name: R
+    description: Advanced
+  
+  - name: Stata
+    description: Advanced
+
+  - name: SQL
+    description: Advanced
+    
+  - name: Python
+    description: Proficient
+    
+  - name: GitHub
+    description: Proficient
+    
+  - name: Excel
+    description: Proficient
+    
+  - name: Word/PowerPoint
+    description: Advanced
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"

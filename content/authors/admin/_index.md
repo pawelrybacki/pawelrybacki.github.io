@@ -1,7 +1,7 @@
 ---
-role: Impact-Oriented Analyst
+role: Economics Researcher and Data Analyst
 avatar_filename: avatar.jpg
-bio: Lorem ipsum dolor sit amet.
+bio: UChicago MAPSS '22. Harvard Economics '21.
 interests:
   - Financial Technology
   - Cultural Economics
@@ -40,9 +40,5 @@ The website is under construction. As of now, not all information is accurate, a
 
 I am a UChicago- and Harvard-trained economist with international background and exceptional skills in data analysis, data science, data visualization, and economic research.
 
+{{< icon name="download" pack="fas" >}} Download my {{% staticref "uploads/resume.pdf" %}}resumé{{% /staticref %}}.
 
-
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "assets/media/pawel-rybacki-resume-2022-may-s2-ds.pdf" "newtab" >}}resumé{{< /staticref >}}.
