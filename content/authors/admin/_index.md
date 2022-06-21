@@ -1,6 +1,6 @@
 ---
-role: Impact-Oriented Social Scientist
-avatar_filename: luminarneo-small-copy.jpg
+role: Impact-Oriented Analyst
+avatar_filename: avatar.jpg
 bio: Lorem ipsum dolor sit amet.
 interests:
   - Financial Technology
@@ -25,7 +25,7 @@ organizations:
     url: https://www.uchicago.edu
 education:
   courses:
-    - course: M.A. Social Sciences (Sociology)
+    - course: M.A. Social Sciences (Economic Sociology)
       institution: University of Chicago
       year: 2022
     - course: A.B., Economics, Cum Laude and High Honors
@@ -37,6 +37,9 @@ title: Paweł Rybacki
 email: ""
 ---
 The website is under construction. As of now, not all information is accurate, and some reflects the content of the original template.
+
+I am a UChicago- and Harvard-trained economist with international background and exceptional skills in data analysis, data science, data visualization, and economic research.
+
 
 
 
