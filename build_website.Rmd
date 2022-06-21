@@ -11,8 +11,11 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ## Build my personal/professional website
 
-URL: https://pawelrybacki.github.io
+URL:
 
+https://pawelrybacki.github.io
+https://pawelrybacki.netlify.app
+ 
 ```{r}
 # install.packages("blogdown") # install the blogdown package
 library(blogdown) # load blogdown

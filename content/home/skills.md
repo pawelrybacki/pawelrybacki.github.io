@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 30
 
-title: Skills
+title: Technical Skills
 subtitle:
 
 # Showcase personal skills or business features.
@@ -34,8 +34,6 @@ feature:
   - name: Excel
     description: Proficient
     
-  - name: Word/PowerPoint
-    description: Advanced
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
