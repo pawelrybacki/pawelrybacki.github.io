@@ -38,7 +38,7 @@ item:
     title: Harvard Center for International Development and Harvard Kennedy School Malcolm Wiener Center Joint Award
     url: 'https://www.hks.harvard.edu/centers/cid/about-cid/news-announcements/proposals-inequality-research-awards'
   - date_end: ''
-    date_start: '2021-09-01'
+    date_start: '2020-09-01'
     description: '$4,000 for my senior thesis research project'
     organization: Harvard University
     organization_url: https://wcfia.harvard.edu

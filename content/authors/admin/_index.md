@@ -40,5 +40,7 @@ The website is under construction. As of now, not all information is accurate, a
 
 I am a UChicago- and Harvard-trained economist with international background and exceptional skills in data analysis, data science, data visualization, and economic research.
 
+I believe that data-driven research is a power for good. I seek to join projects that have a positive impact - starting with a single organization and eventually reaching the common good of all.
+
 {{< icon name="download" pack="fas" >}} Download my {{% staticref "uploads/resume.pdf" %}}resumé{{% /staticref %}}.
 
