@@ -1,7 +1,7 @@
 ---
 authors:
 - admin
-date: "2019-12-9T00:00:00Z"
+date: "2019-12-09T00:00:00Z"
 doi: ""
 featured: true
 image:
@@ -11,7 +11,7 @@ image:
 
 publication_types:
 - "1"
-publishDate: "2019-12-11T00:00:00Z"
+publishDate: "2019-12-09T00:00:00Z"
 summary: Considering the lack of substantial research in the area, this paper takes the relationship between transport infrastructure and decentralization as its main subject of analysis. Is decentralization associated with improved transport infrastructure provision in developing countries?
 
 tags: [Economics]
