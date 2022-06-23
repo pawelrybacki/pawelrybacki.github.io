@@ -6,7 +6,7 @@ image:
   focal_point: Smart
 tags:
 - Economics
-title: Partitions of Poland - Policy Brief
+title: Partitions of Poland—Policy Brief
 url_code: ""
 url_pdf: ""
 url_slides: ""

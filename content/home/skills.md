@@ -17,21 +17,33 @@ subtitle:
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
   - name: R
+    icon: r-project
+    icon_pack: fab
     description: Advanced
   
   - name: Stata
+    icon: chart-column
+    icon_pack: fas
     description: Advanced
 
   - name: SQL
+    icon: database
+    icon_pack: fas
     description: Advanced
     
   - name: Python
+    icon: python
+    icon_pack: fab
     description: Proficient
     
   - name: GitHub
+    icon: github
+    icon_pack: fab
     description: Proficient
     
   - name: Excel
+    icon: file-excel
+    icon_pack: fas
     description: Proficient
     
 

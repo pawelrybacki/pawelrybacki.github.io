@@ -7,9 +7,9 @@ image:
   focal_point: Smart
 tags:
 - Data Science
-title: Bee Colonies and Climate - Data Project
-url_code: ""
-url_pdf: ""
+title: Bee Colonies and Climate—A Data Project
+url_code: "https://github.com/pawelrybacki/bee-colony-stressor-climate/blob/main/stressor_climate.csv"
+url_dataset: "https://github.com/pawelrybacki/bee-colony-stressor-climate/blob/main/stressor_climate.csv"
 url_slides: ""
 url_video: ""
 ---

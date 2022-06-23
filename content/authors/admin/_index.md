@@ -36,11 +36,12 @@ highlight_name: true
 title: Paweł Rybacki
 email: ""
 ---
-The website is under construction. As of now, not all information is accurate, and some reflects the content of the original template.
 
 I am a UChicago- and Harvard-trained economist with international background and exceptional skills in data analysis, data science, data visualization, and economic research.
 
-I believe that data-driven research is a power for good. I seek to join projects that have a positive impact - starting with a single organization and eventually reaching the common good of all.
+I believe that data-driven research is a power for good. I seek to join projects that have a positive impact—starting with a single organization and eventually reaching the common good of all.
+
+(The website is under construction. Check back for more stories and projects from me!)
 
 {{< icon name="download" pack="fas" >}} Download my {{% staticref "uploads/resume.pdf" %}}resumé{{% /staticref %}}.
 
