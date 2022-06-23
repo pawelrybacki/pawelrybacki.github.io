@@ -46,3 +46,4 @@ Considering little historical evidence for institutional persistence and the new
 
 Thus, policy focus on building capital seems a reasonable implication for the former Russian partition of Poland. Forming social networks and increasing agricultural capacity are two examples of actions that make sense in the context of my findings and the existing literature. However, the exact cause of the inter-partition income disparity is yet to be empirically demonstrated.
 
+You can find the full text of my thesis [here]({{< relref "../../papers/partitions/" >}}). (Also hosted on [Harvard Kennedy School's website](https://www.hks.harvard.edu/sites/default/files/centers/cid/files/publications/CID_Wiener_Inequality%20Award%20Research/Policy%20Briefs/Pawel%20Rybacki%20(1-A).pdf)).
