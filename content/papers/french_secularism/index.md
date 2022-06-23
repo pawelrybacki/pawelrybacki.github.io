@@ -38,7 +38,7 @@ One significant manifestation of laïcité is the 1905 law on the Separation of 
 
 The supporters of a strict definition of laïcité believe headscarves and burkinis violate the principle of secularism; other French citizens find the burqa ban “Islamophobic” and even “racist.”[^6]   The United Nation’s Universal Declaration of Human rights states that “everyone has the right to freedom of thought, conscience and religion; this right includes freedom to (…) [in public or private] manifest his religion or belief in teaching, practice, worship and observance.”[^7]  Therefore, what is at stake is not only the problem of some practical applications of laïcité, but also the fundamental moral code of French culture. 
 
-Contemporary French secularism is a product of both a break from religious tradition and a partial compromise with the Catholic Church, meaning that French secularism, in its present form, is incompatible with the French Muslim perspective on the role of religion in public life and fails to approach Islam as a religion with its own unique characteristics, which are distinct from that of Catholicism.
+Contemporary French secularism is a product of both a break from religious tradition and a partial compromise with the Catholic Church, meaning that French secularism, in its present form, is incompatible with the French Muslim perspective on the role of religion in public life and fails to approach Islam as a religion with its own unique characteristics, which are distinct from those of Catholicism.
 
 Read the full paper <a href="french_secularism.pdf">here</a>.
 
