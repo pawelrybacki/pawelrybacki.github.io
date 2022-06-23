@@ -20,17 +20,22 @@ tags:
 title: Hello from Paweł!
 ---
 
-## Me and My Story
-
-As a Polish high school student in Bydgoszcz, Poland, I hardly realized that studying in the United States was a possibility. This changed when I met a Dominican brother from New York on a German language course in Austria and learned about financial aid opportunities for international students at American institutions. 
-
-Formerly pursuing biology and chemistry, I developed my passion for the scientific method and found its fulfillment in empirical social science studies. In my interdisciplinary social scientific research, I have focused on financial technology, economic development, culture, behavior, and religion. 
-
-My economics senior thesis quantifed economically significant cultural disparities in behavior across the former 19th-century Prussian-Russian border in contemporary Poland by utilizing a spatial regression discontinuity design and a novel Partitions of Poland Survey of 3150 respondents. 
+## My Story Short
 
 I'm a member of Harvard College Class of 2021 and University of Chicago Graduate Class of 2022. I am a Student Fellow at the Abigail Adams Institute. I'm also an alumn of the Abigail Adams Institute, the John Adams Society, Harvard Political Review,  Kenneth I. Juster Fellowship, and the Weatherhead Center.
 
-In my free time, I like to philosophize on life and the nature of all things. I have a penchant for the Italian language, pre-modern Western philosophy, and Renaissance art.
+But before that, I was a Polish high school student in Bydgoszcz, Poland, and I hardly realized that studying in the United States was a possibility. This changed when I met a Catholic brother of the Dominican order from New York on a German language course in Austria. He first made me aware of financial aid opportunities for international students at American institutions. 
 
+Liberal arts education at the Ivy League schools deeply fascinated me and decided to apply. I spent the rest of the summer learning how. Despite the complexity of the recruitment process unknown in Poland and selectivity of admissions highest in the world, I heard "Congratulations!" from Harvard, Yale, and Amherst. 
 
+My time at Harvard was a fantastic experience. I got to know professors and students of a great variety of backgrounds, experiences, and interests. In the unique Harvard community, I established life-long friendships with some of the best people I have ever met.
 
+There is no place like Harvard... and the University of Chicago is the same in this regard. During the Master's Program in the Social Sciences (also known as the "marathon"), in new ways I broadened my horizons, both in social life experiences and in the social sciences.
+
+## My Interest in Economics and Quantitative Social Sciences 
+
+Formerly pursuing biology and chemistry, I developed my passion for the scientific method and found its application to empirical social sciences particularly exciting. In my social scientific research, I have taken an interdisciplinary approach and used my econometric skills to investigate areas such as financial technology, economic development, culture, religion, and behavior. 
+
+## My Other Interests
+
+I have a penchant for the Italian language, pre-modern Western philosophy, and Renaissance art. In my free time, I like to philosophize on life and the nature of all things or to write poetry. Driving is my passion, and it deserves a separate essay or a poem (someday).
