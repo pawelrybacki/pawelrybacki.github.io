@@ -47,6 +47,17 @@
   {{ i18n "btn_code" }}
 </a>
 {{ end }}
+{{ with $page.Params.url_app }}
+  {{ $resource := $page.Resources.GetMatch . }}
+  {{ if $resource }}
+    {{ $link = $resource.RelPermalink }}
+  {{ else }}
+    {{ $link = . | relURL }}
+  {{ end }}
+<a class="btn btn-outline-primary btn-page-header{{ if $is_list }} btn-sm{{end}}" href="{{ $link }}" target="_blank" rel="noopener">
+  {{ i18n "btn_app" }}
+</a>
+{{ end }}
 {{ with $page.Params.url_dataset }}
   {{ $resource := $page.Resources.GetMatch . }}
   {{ if $resource }}

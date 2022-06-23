@@ -39,6 +39,8 @@ content:
       tag: '*'
     - name: Economics
       tag: Economics
+    - name: Economic Sociology
+      tag: Economic Sociology
     - name: Thought
       tag: Thought
 

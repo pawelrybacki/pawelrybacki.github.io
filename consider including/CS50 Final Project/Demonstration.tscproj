@@ -1,0 +1,670 @@
+{
+  "title" : "",
+  "description" : "",
+  "author" : "",
+  "targetLoudness" : -18.0,
+  "shouldApplyLoudnessNormalization" : true,
+  "videoFormatFrameRate" : 30,
+  "audioFormatSampleRate" : 44100,
+  "width" : 1920.0,
+  "height" : 1080.0,
+  "version" : "3.0",
+  "editRate" : 30,
+  "authoringClientName" :  {
+    "name" : "Camtasia",
+    "platform" : "Windows",
+    "version" : "19.0"
+  },
+  "sourceBin" : [
+    {
+      "id" : 1,
+      "src" : "C:\\Users\\Paweł\\Documents\\Camtasia\\Rec 12-08-19.trec",
+      "rect" : [0, 0, 1920, 1080],
+      "lastMod" : "20191208T053436",
+      "sourceTracks" : [
+        {
+          "range" : [0, 3293],
+          "type" : 0,
+          "editRate" : 30,
+          "trackRect" : [0, 0, 1920, 1080],
+          "sampleRate" : 26,
+          "bitDepth" : 0,
+          "numChannels" : 0,
+          "integratedLUFS" : 100.0,
+          "peakLevel" : -1.0,
+          "metaData" : "2b7b6a00-7a1f-11e2-83d0-0017f200be7f;2b7b6aef-7a1f-11e2-83d0-0017f200be7f;2b7b6af0-7a1f-11e2-83d0-0017f200be7f;2b7b6af1-7a1f-11e2-83d0-0017f200be7f;2b7b6af2-7a1f-11e2-83d0-0017f200be7f;2b7b6af3-7a1f-11e2-83d0-0017f200be7f;2b7b6af5-7a1f-11e2-83d0-0017f200be7f;2b7b6af6-7a1f-11e2-83d0-0017f200be7f;2b7b6af7-7a1f-11e2-83d0-0017f200be7f;2b7b6af8-7a1f-11e2-83d0-0017f200be7f;2b7b6af9-7a1f-11e2-83d0-0017f200be7f;2b7b6afa-7a1f-11e2-83d0-0017f200be7f;"
+        },
+        {
+          "range" : [0, 4830208],
+          "type" : 2,
+          "editRate" : 44100,
+          "trackRect" : [0, 0, 0, 0],
+          "sampleRate" : 44100,
+          "bitDepth" : 16,
+          "numChannels" : 2,
+          "integratedLUFS" : -46.8456077460303,
+          "peakLevel" : 0.22808837890625,
+          "metaData" : ""
+        },
+        {
+          "range" : [0, 4839424],
+          "type" : 2,
+          "editRate" : 44100,
+          "trackRect" : [0, 0, 0, 0],
+          "sampleRate" : 44100,
+          "bitDepth" : 16,
+          "numChannels" : 2,
+          "integratedLUFS" : -1.79769313486232e+308,
+          "peakLevel" : 0.0,
+          "metaData" : ""
+        }
+      ],
+      "metadata" : {
+        "timeAdded" : "20191208T053436.861247"
+      }
+    },
+    {
+      "id" : 2,
+      "src" : "C:\\Users\\Paweł\\Documents\\Camtasia\\Rec 12-08-19_001.trec",
+      "rect" : [0, 0, 1920, 1080],
+      "lastMod" : "20191208T055057",
+      "sourceTracks" : [
+        {
+          "range" : [0, 3661],
+          "type" : 0,
+          "editRate" : 30,
+          "trackRect" : [0, 0, 1920, 1080],
+          "sampleRate" : 29,
+          "bitDepth" : 0,
+          "numChannels" : 0,
+          "integratedLUFS" : 100.0,
+          "peakLevel" : -1.0,
+          "metaData" : "2b7b6a00-7a1f-11e2-83d0-0017f200be7f;2b7b6aef-7a1f-11e2-83d0-0017f200be7f;2b7b6af0-7a1f-11e2-83d0-0017f200be7f;2b7b6af1-7a1f-11e2-83d0-0017f200be7f;2b7b6af2-7a1f-11e2-83d0-0017f200be7f;2b7b6af3-7a1f-11e2-83d0-0017f200be7f;2b7b6af5-7a1f-11e2-83d0-0017f200be7f;2b7b6af6-7a1f-11e2-83d0-0017f200be7f;2b7b6af7-7a1f-11e2-83d0-0017f200be7f;2b7b6af8-7a1f-11e2-83d0-0017f200be7f;2b7b6af9-7a1f-11e2-83d0-0017f200be7f;2b7b6afa-7a1f-11e2-83d0-0017f200be7f;"
+        }
+      ],
+      "metadata" : {
+        "timeAdded" : "20191208T055058.153071"
+      }
+    },
+    {
+      "id" : 3,
+      "src" : "C:\\Users\\Paweł\\Documents\\Camtasia\\Rec 12-08-19_002.trec",
+      "rect" : [0, 0, 1920, 1080],
+      "lastMod" : "20191208T060533",
+      "sourceTracks" : [
+        {
+          "range" : [0, 882],
+          "type" : 0,
+          "editRate" : 30,
+          "trackRect" : [0, 0, 1920, 1080],
+          "sampleRate" : 29,
+          "bitDepth" : 0,
+          "numChannels" : 0,
+          "integratedLUFS" : 100.0,
+          "peakLevel" : -1.0,
+          "metaData" : "2b7b6a00-7a1f-11e2-83d0-0017f200be7f;2b7b6aef-7a1f-11e2-83d0-0017f200be7f;2b7b6af0-7a1f-11e2-83d0-0017f200be7f;2b7b6af1-7a1f-11e2-83d0-0017f200be7f;2b7b6af2-7a1f-11e2-83d0-0017f200be7f;2b7b6af3-7a1f-11e2-83d0-0017f200be7f;2b7b6af5-7a1f-11e2-83d0-0017f200be7f;2b7b6af6-7a1f-11e2-83d0-0017f200be7f;2b7b6af7-7a1f-11e2-83d0-0017f200be7f;2b7b6af8-7a1f-11e2-83d0-0017f200be7f;2b7b6af9-7a1f-11e2-83d0-0017f200be7f;2b7b6afa-7a1f-11e2-83d0-0017f200be7f;"
+        }
+      ],
+      "metadata" : {
+        "timeAdded" : "20191208T060533.452336"
+      }
+    },
+    {
+      "id" : 4,
+      "src" : "C:\\ProgramData\\TechSmith\\Camtasia Studio 19\\Library 4.0\\User Libraries\\Default\\Rec 12-08-19_001.asset\\Rec 12-08-19_001.trec",
+      "rect" : [0, 0, 1920, 1080],
+      "lastMod" : "20191208T055057",
+      "sourceTracks" : [
+        {
+          "range" : [0, 3661],
+          "type" : 0,
+          "editRate" : 30,
+          "trackRect" : [0, 0, 1920, 1080],
+          "sampleRate" : 29,
+          "bitDepth" : 0,
+          "numChannels" : 0,
+          "integratedLUFS" : 100.0,
+          "peakLevel" : -1.0,
+          "metaData" : "2b7b6a00-7a1f-11e2-83d0-0017f200be7f;2b7b6aef-7a1f-11e2-83d0-0017f200be7f;2b7b6af0-7a1f-11e2-83d0-0017f200be7f;2b7b6af1-7a1f-11e2-83d0-0017f200be7f;2b7b6af2-7a1f-11e2-83d0-0017f200be7f;2b7b6af3-7a1f-11e2-83d0-0017f200be7f;2b7b6af5-7a1f-11e2-83d0-0017f200be7f;2b7b6af6-7a1f-11e2-83d0-0017f200be7f;2b7b6af7-7a1f-11e2-83d0-0017f200be7f;2b7b6af8-7a1f-11e2-83d0-0017f200be7f;2b7b6af9-7a1f-11e2-83d0-0017f200be7f;2b7b6afa-7a1f-11e2-83d0-0017f200be7f;"
+        }
+      ],
+      "metadata" : {
+        "assetLibraryId" : "c47acdd0-b144-4699-9d45-d906f5cb7a2c",
+        "timeAdded" : "20191208T061244.267921"
+      }
+    },
+    {
+      "id" : 5,
+      "src" : "C:\\Users\\Paweł\\Documents\\Camtasia\\Rec 12-08-19_003.trec",
+      "rect" : [0, 0, 1920, 1080],
+      "lastMod" : "20191208T062513",
+      "sourceTracks" : [
+        {
+          "range" : [0, 229],
+          "type" : 0,
+          "editRate" : 30,
+          "trackRect" : [0, 0, 1920, 1080],
+          "sampleRate" : 28,
+          "bitDepth" : 0,
+          "numChannels" : 0,
+          "integratedLUFS" : 100.0,
+          "peakLevel" : -1.0,
+          "metaData" : "2b7b6a00-7a1f-11e2-83d0-0017f200be7f;2b7b6aef-7a1f-11e2-83d0-0017f200be7f;2b7b6af0-7a1f-11e2-83d0-0017f200be7f;2b7b6af1-7a1f-11e2-83d0-0017f200be7f;2b7b6af2-7a1f-11e2-83d0-0017f200be7f;2b7b6af3-7a1f-11e2-83d0-0017f200be7f;2b7b6af5-7a1f-11e2-83d0-0017f200be7f;2b7b6af6-7a1f-11e2-83d0-0017f200be7f;2b7b6af7-7a1f-11e2-83d0-0017f200be7f;2b7b6af8-7a1f-11e2-83d0-0017f200be7f;2b7b6af9-7a1f-11e2-83d0-0017f200be7f;2b7b6afa-7a1f-11e2-83d0-0017f200be7f;"
+        }
+      ],
+      "metadata" : {
+        "timeAdded" : "20191208T062514.296989"
+      }
+    }
+  ],
+  "timeline" : {
+    "id" : 6,
+    "sceneTrack" : {
+      "scenes" : [
+        {
+          "duration" : 94.2,
+          "title" : "",
+          "type" : "",
+          "csml" : {
+            "tracks" : [
+              {
+                "trackIndex" : 0,
+                "medias" : [
+                  {
+                    "id" : 7,
+                    "_type" : "ScreenVMFile",
+                    "src" : 2,
+                    "trackNumber" : 0,
+                    "attributes" : {
+                      "ident" : "Rec 12-08-19_001"
+                    },
+                    "parameters" : {
+                      "cursorScale" : {
+                        "type" : "double",
+                        "defaultValue" : 1.0,
+                        "interp" : "linr"
+                      },
+                      "cursorOpacity" : {
+                        "type" : "double",
+                        "defaultValue" : 1.0,
+                        "interp" : "linr"
+                      }
+                    },
+                    "effects" : [
+
+                    ],
+                    "start" : 0,
+                    "duration" : 462,
+                    "mediaStart" : 0,
+                    "mediaDuration" : 462,
+                    "scalar" : 1,
+                    "metadata" : {
+                      "AutoAppliedSmartFocus" : "False",
+                      "clipSpeedAttribute" : true
+                    },
+                    "animationTracks" : {
+
+                    }
+                  },
+                  {
+                    "id" : 8,
+                    "_type" : "ScreenVMFile",
+                    "src" : 4,
+                    "trackNumber" : 0,
+                    "attributes" : {
+                      "ident" : "Rec 12-08-19_001"
+                    },
+                    "parameters" : {
+                      "cursorScale" : {
+                        "type" : "double",
+                        "defaultValue" : 1.0,
+                        "interp" : "linr"
+                      },
+                      "cursorOpacity" : {
+                        "type" : "double",
+                        "defaultValue" : 1.0,
+                        "interp" : "linr"
+                      }
+                    },
+                    "effects" : [
+
+                    ],
+                    "start" : 462,
+                    "duration" : 236,
+                    "mediaStart" : 462,
+                    "mediaDuration" : "63248/107",
+                    "scalar" : "107/268",
+                    "metadata" : {
+                      "AutoAppliedSmartFocus" : "False",
+                      "clipSpeedAttribute" : true
+                    },
+                    "animationTracks" : {
+
+                    }
+                  },
+                  {
+                    "id" : 9,
+                    "_type" : "ScreenVMFile",
+                    "src" : 2,
+                    "trackNumber" : 0,
+                    "attributes" : {
+                      "ident" : "Rec 12-08-19_001"
+                    },
+                    "parameters" : {
+                      "cursorScale" : {
+                        "type" : "double",
+                        "defaultValue" : 1.0,
+                        "interp" : "linr"
+                      },
+                      "cursorOpacity" : {
+                        "type" : "double",
+                        "defaultValue" : 1.0,
+                        "interp" : "linr"
+                      }
+                    },
+                    "effects" : [
+
+                    ],
+                    "start" : 698,
+                    "duration" : 1438,
+                    "mediaStart" : 1039,
+                    "mediaDuration" : 2160,
+                    "scalar" : "719/1080",
+                    "metadata" : {
+                      "AutoAppliedSmartFocus" : "False",
+                      "clipSpeedAttribute" : true
+                    },
+                    "animationTracks" : {
+
+                    }
+                  },
+                  {
+                    "id" : 10,
+                    "_type" : "StitchedMedia",
+                    "minMediaStart" : 0,
+                    "attributes" : {
+                      "ident" : "Rec 12-08-19_002",
+                      "gain" : 1.0,
+                      "mixToMono" : false
+                    },
+                    "parameters" : {
+                      "cursorOpacity" : 1.0,
+                      "cursorScale" : 1.0
+                    },
+                    "medias" : [
+                        {
+                          "id" : 11,
+                          "_type" : "ScreenVMFile",
+                          "src" : 3,
+                          "trackNumber" : 0,
+                          "attributes" : {
+                            "ident" : "Rec 12-08-19_002"
+                          },
+                          "parameters" : {
+                            "cursorScale" : {
+                              "type" : "double",
+                              "defaultValue" : 0.0,
+                              "interp" : "linr"
+                            },
+                            "cursorOpacity" : {
+                              "type" : "double",
+                              "defaultValue" : 0.0,
+                              "interp" : "linr"
+                            }
+                          },
+                          "effects" : [
+
+                          ],
+                          "start" : 0,
+                          "duration" : 208,
+                          "mediaStart" : 0,
+                          "mediaDuration" : 208,
+                          "scalar" : 1,
+                          "metadata" : {
+                            "AutoAppliedSmartFocus" : "False",
+                            "clipSpeedAttribute" : false
+                          },
+                          "animationTracks" : {
+
+                          }
+                        },
+                        {
+                          "id" : 12,
+                          "_type" : "ScreenVMFile",
+                          "src" : 3,
+                          "trackNumber" : 0,
+                          "attributes" : {
+                            "ident" : "Rec 12-08-19_002"
+                          },
+                          "parameters" : {
+                            "cursorScale" : {
+                              "type" : "double",
+                              "defaultValue" : 0.0,
+                              "interp" : "linr"
+                            },
+                            "cursorOpacity" : {
+                              "type" : "double",
+                              "defaultValue" : 0.0,
+                              "interp" : "linr"
+                            }
+                          },
+                          "effects" : [
+
+                          ],
+                          "start" : 208,
+                          "duration" : 27,
+                          "mediaStart" : 236,
+                          "mediaDuration" : 27,
+                          "scalar" : 1,
+                          "metadata" : {
+                            "AutoAppliedSmartFocus" : "False",
+                            "clipSpeedAttribute" : false
+                          },
+                          "animationTracks" : {
+
+                          }
+                        },
+                        {
+                          "id" : 13,
+                          "_type" : "ScreenVMFile",
+                          "src" : 3,
+                          "trackNumber" : 0,
+                          "attributes" : {
+                            "ident" : "Rec 12-08-19_002"
+                          },
+                          "parameters" : {
+                            "cursorScale" : {
+                              "type" : "double",
+                              "defaultValue" : 0.0,
+                              "interp" : "linr"
+                            },
+                            "cursorOpacity" : {
+                              "type" : "double",
+                              "defaultValue" : 0.0,
+                              "interp" : "linr"
+                            }
+                          },
+                          "effects" : [
+
+                          ],
+                          "start" : 235,
+                          "duration" : 465,
+                          "mediaStart" : 417,
+                          "mediaDuration" : 465,
+                          "scalar" : 1,
+                          "metadata" : {
+                            "AutoAppliedSmartFocus" : "False",
+                            "clipSpeedAttribute" : false
+                          },
+                          "animationTracks" : {
+
+                          }
+                        }
+                    ],
+                    "effects" : [
+
+                    ],
+                    "start" : 2136,
+                    "duration" : 574,
+                    "mediaStart" : 0,
+                    "mediaDuration" : 574,
+                    "scalar" : 1,
+                    "metadata" : {
+                      "AutoAppliedSmartFocus" : "False",
+                      "clipSpeedAttribute" : false
+                    },
+                    "animationTracks" : {
+
+                    }
+                  },
+                  {
+                    "id" : 14,
+                    "_type" : "ScreenVMFile",
+                    "src" : 5,
+                    "trackNumber" : 0,
+                    "attributes" : {
+                      "ident" : "Rec 12-08-19_003"
+                    },
+                    "parameters" : {
+                      "cursorScale" : {
+                        "type" : "double",
+                        "defaultValue" : 1.0,
+                        "interp" : "linr"
+                      },
+                      "cursorOpacity" : {
+                        "type" : "double",
+                        "defaultValue" : 1.0,
+                        "interp" : "linr"
+                      }
+                    },
+                    "effects" : [
+
+                    ],
+                    "start" : 2710,
+                    "duration" : 116,
+                    "mediaStart" : 0,
+                    "mediaDuration" : 116,
+                    "scalar" : 1,
+                    "metadata" : {
+                      "AutoAppliedSmartFocus" : "False",
+                      "clipSpeedAttribute" : false
+                    },
+                    "animationTracks" : {
+
+                    }
+                  }
+                ]
+              },
+              {
+                "trackIndex" : 1,
+                "medias" : [
+                  {
+                    "id" : 15,
+                    "_type" : "Callout",
+                    "def" : {
+                      "kind" : "TypeWinBlur",
+                      "shape" : "",
+                      "style" : "",
+                      "blur-invert" : 0.0,
+                      "height" : 270.0,
+                      "intensity" : 1.0,
+                      "width" : 480.0,
+                      "filename" : "C:\\Users\\Paweł\\AppData\\Local\\TechSmith\\Camtasia Studio\\19.0\\Features\\Tools\\Annotations\\Defaults\\blur_100x100.xml",
+                      "name" : "Blur",
+                      "xmlContent" : "﻿<?xml version=\"1.0\"?>\n\n<Overlay version=\"1.0.1\">\n\n<Overlay_Filename>blur_100x100.png</Overlay_Filename>\n<Overlay_Name>Blur</Overlay_Name>\n<Text_Top>0</Text_Top>\n<Text_Left>0</Text_Left>\n<Text_Bottom>0</Text_Bottom>\n<Text_Right>0</Text_Right>\n<Fill_Color>0</Fill_Color>\n<Border_Color>0</Border_Color>\n</Overlay>"
+                    },
+                    "attributes" : {
+                      "autoRotateText" : true
+                    },
+                    "parameters" : {
+                      "translation0" : -570.370370370349,
+                      "translation1" : 288.888888888989,
+                      "scale0" : 1.53626543209884,
+                      "scale1" : 1.53497942386857
+                    },
+                    "effects" : [
+
+                    ],
+                    "start" : 1704,
+                    "duration" : 132,
+                    "mediaStart" : 0,
+                    "mediaDuration" : 132,
+                    "scalar" : 1,
+                    "metadata" : {
+                      "clipSpeedAttribute" : false,
+                      "default-legacy-invert-blur" : 0.0,
+                      "default-scale0" : 1.0,
+                      "default-scale1" : 1.0,
+                      "default-translation0" : 0.0,
+                      "default-translation1" : 0.0
+                    },
+                    "animationTracks" : {
+
+                    }
+                  },
+                  {
+                    "id" : 16,
+                    "_type" : "Callout",
+                    "def" : {
+                      "kind" : "TypeWinBlur",
+                      "shape" : "",
+                      "style" : "",
+                      "blur-invert" : 0.0,
+                      "height" : 270.0,
+                      "intensity" : 1.0,
+                      "width" : 480.0,
+                      "filename" : "C:\\Users\\Paweł\\AppData\\Local\\TechSmith\\Camtasia Studio\\19.0\\Features\\Tools\\Annotations\\Defaults\\blur_100x100.xml",
+                      "name" : "Blur",
+                      "xmlContent" : "﻿<?xml version=\"1.0\"?>\n\n<Overlay version=\"1.0.1\">\n\n<Overlay_Filename>blur_100x100.png</Overlay_Filename>\n<Overlay_Name>Blur</Overlay_Name>\n<Text_Top>0</Text_Top>\n<Text_Left>0</Text_Left>\n<Text_Bottom>0</Text_Bottom>\n<Text_Right>0</Text_Right>\n<Fill_Color>0</Fill_Color>\n<Border_Color>0</Border_Color>\n</Overlay>"
+                    },
+                    "attributes" : {
+                      "autoRotateText" : true
+                    },
+                    "parameters" : {
+                      "translation0" : 325.490196077557,
+                      "translation1" : -181.372549019607,
+                      "scale0" : 0.616013071894268,
+                      "scale1" : 1.06535947712425
+                    },
+                    "effects" : [
+
+                    ],
+                    "start" : 2197,
+                    "duration" : 24,
+                    "mediaStart" : 0,
+                    "mediaDuration" : 24,
+                    "scalar" : 1,
+                    "metadata" : {
+                      "clipSpeedAttribute" : false,
+                      "default-scale0" : 1.0,
+                      "default-scale1" : 1.0,
+                      "default-translation0" : 0.0,
+                      "default-translation1" : 0.0
+                    },
+                    "animationTracks" : {
+
+                    }
+                  },
+                  {
+                    "id" : 17,
+                    "_type" : "Callout",
+                    "def" : {
+                      "kind" : "TypeWinBlur",
+                      "shape" : "",
+                      "style" : "",
+                      "blur-invert" : 0.0,
+                      "height" : 270.0,
+                      "intensity" : 1.0,
+                      "width" : 480.0,
+                      "filename" : "C:\\Users\\Paweł\\AppData\\Local\\TechSmith\\Camtasia Studio\\19.0\\Features\\Tools\\Annotations\\Defaults\\blur_100x100.xml",
+                      "name" : "Blur",
+                      "xmlContent" : "﻿<?xml version=\"1.0\"?>\n\n<Overlay version=\"1.0.1\">\n\n<Overlay_Filename>blur_100x100.png</Overlay_Filename>\n<Overlay_Name>Blur</Overlay_Name>\n<Text_Top>0</Text_Top>\n<Text_Left>0</Text_Left>\n<Text_Bottom>0</Text_Bottom>\n<Text_Right>0</Text_Right>\n<Fill_Color>0</Fill_Color>\n<Border_Color>0</Border_Color>\n</Overlay>"
+                    },
+                    "attributes" : {
+                      "autoRotateText" : true
+                    },
+                    "parameters" : {
+                      "translation0" : 328.431372548408,
+                      "translation1" : -68.6274509804906,
+                      "scale0" : 0.628267973855882,
+                      "scale1" : 1.26143790849753
+                    },
+                    "effects" : [
+
+                    ],
+                    "start" : 2547,
+                    "duration" : 23,
+                    "mediaStart" : 4,
+                    "mediaDuration" : 23,
+                    "scalar" : 1,
+                    "metadata" : {
+                      "clipSpeedAttribute" : false,
+                      "default-scale0" : 1.0,
+                      "default-scale1" : 1.0,
+                      "default-translation0" : 0.0,
+                      "default-translation1" : 0.0
+                    },
+                    "animationTracks" : {
+
+                    }
+                  }
+                ]
+              },
+              {
+                "trackIndex" : 2,
+                "medias" : [
+                ]
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "trackAttributes" : [
+      {
+        "ident" : "",
+        "audioMuted" : false,
+        "videoHidden" : false,
+        "magnetic" : false,
+        "matte" : 0,
+        "metadata" : {
+          "IsLocked" : "False",
+          "WinTrackHeight" : "56"
+        }
+      },
+      {
+        "ident" : "",
+        "audioMuted" : false,
+        "videoHidden" : false,
+        "magnetic" : false,
+        "matte" : 0,
+        "metadata" : {
+          "IsLocked" : "False",
+          "WinTrackHeight" : "56"
+        }
+      },
+      {
+        "ident" : "",
+        "audioMuted" : false,
+        "videoHidden" : false,
+        "magnetic" : false,
+        "matte" : 0,
+        "metadata" : {
+          "IsLocked" : "False",
+          "WinTrackHeight" : "56"
+        }
+      }
+    ],
+    "captionAttributes" : {
+      "enabled" : true,
+      "fontName" : "Arial",
+      "fontSize" : 64,
+      "backgroundColor" : [ 0, 0, 0, 191],
+      "foregroundColor" : [ 255, 255, 255, 255],
+      "lang" : "en",
+      "alignment" : 0,
+      "defaultFontSize" : true,
+      "opacity" : 0.5,
+      "backgroundEnabled" : true,
+      "backgroundOnlyAroundText" : true
+    },
+    "backgroundColor" : [ 0, 0, 0, 255]
+  },
+  "metadata" : {
+    "AutoSaveFile" : "C:\\Users\\Paweł\\AppData\\Local\\TechSmith\\Camtasia Studio\\19.0\\Auto-Saves\\Demonstration53e709c.autosave.tscproj",
+    "CanvasZoom" : 51,
+    "Date" : "2019-12-08 12:28:42 AM",
+    "IsAutoSave" : "0",
+    "Language" : "ENU",
+    "ProfileName" : "",
+    "ProjectDimensionsChanged" : "1",
+    "Title" : "Demonstration",
+    "audioNarrationNotes" : "",
+    "calloutStyle" : "Basic",
+    "canvasDetached" : "False",
+    "canvasPositionHeight" : "0",
+    "canvasPositionLeft" : "0",
+    "canvasPositionTop" : "0",
+    "canvasPositionWidth" : "0"
+  }
+}

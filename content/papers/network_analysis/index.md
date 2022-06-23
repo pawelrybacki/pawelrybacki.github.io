@@ -1,7 +1,7 @@
 ---
 authors:
 - admin
-date: "2022-03-18T00:00:00Z"
+date: "2022-03-31T00:00:00Z"
 doi: ""
 featured: true
 image:
@@ -11,10 +11,10 @@ image:
 
 publication_types:
 - "1"
-publishDate: "2022-03-18T00:00:00Z"
+publishDate: "2022-03-31T00:00:00Z"
 summary: The goal of this paper is to analyze the network around Revolut, a London company that has emerged from a startup offering an inter-bank rate currency exchange to a challenger bank that is the second largest in the world and the largest in Europe by market valuation. To that end, I consider the network structures of financial, human, and social capital flows around Revolut.
 
-tags: [Economics]
+tags: [Economic Sociology]
 title: The Network around Revolut—How Interconnected are the Leading Digital Banks?
 
 url_code: ""

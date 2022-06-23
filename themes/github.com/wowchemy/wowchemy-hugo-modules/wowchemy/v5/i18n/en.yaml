@@ -75,6 +75,9 @@
 - id: btn_code
   translation: Code
 
+- id: btn_app
+  translation: App
+
 - id: btn_dataset
   translation: Dataset
 
