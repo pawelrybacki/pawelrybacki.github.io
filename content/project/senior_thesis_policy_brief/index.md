@@ -4,6 +4,7 @@ external_link: ""
 image:
   caption: Poland in 1858
   focal_point: Smart
+summary: This is a summary of my thesis research on the effects of the nineteenth-century partitions of Poland among Austria, Prussia, and Russia on contemporary socio-economic and cultural outcomes and regional disparities. By conducting an online survey targeted at a region with spatial discontinuity, I document persistent effects of the Partitions of Poland between formerly Prussian and formerly Russian regions.
 tags:
 - Economics
 title: Partitions of Poland—Policy Brief

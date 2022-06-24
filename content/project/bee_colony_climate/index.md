@@ -3,7 +3,7 @@ date: "2021-04-15T00:00:00Z"
 external_link: ""
 image:
   caption: Photo by <a href="https://unsplash.com/@at8eqeq3?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Dmitry Grigoriev</a> on <a href="https://unsplash.com/s/photos/bee?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
-  
+summary: This project shows how to download and combine climate data from the NCDC with data on bee colonies from the USDA using R.
   focal_point: Smart
 tags:
 - Data Science
@@ -17,9 +17,7 @@ url_video: ""
 ### Combine Data on Bee Colonies and Climate
 
 ## Project Description:
-This coding project was originally a part of a larger team project whose goal was to
-establish relationships among variables related to bee colony losses,
-bee colony stressors, and climate.
+This coding project was originally a part of a larger team project whose goal was to establish relationships among variables related to bee colony losses, bee colony stressors, and climate.
 
 The data describing bee colonies come from the Bee Colonies dataset from
 [TidyTuesday](https://github.com/rfordatascience/tidytuesday/blob/master/data/2022/2022-01-11/readme.md#bee-colonies).

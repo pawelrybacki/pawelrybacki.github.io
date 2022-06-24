@@ -12,7 +12,7 @@ image:
 publication_types:
 - "1"
 publishDate: "2021-04-15T00:00:00Z"
-summary:  
+summary: By conducting a large online survey targeted at a region with spatial discontinuity, this research documents persistent effects of the Partitions of Poland on contemporary differences in culture and social capital between formerly Prussian and Russian regions. 
 
 tags: [Economics]
 title: Economically Significant Cultural Consequences of the Partitions of Poland

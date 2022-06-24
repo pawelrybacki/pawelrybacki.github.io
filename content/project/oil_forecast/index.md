@@ -4,6 +4,7 @@ external_link: ""
 image:
   caption: Oil Price Forecast
   focal_point: Smart
+summary: With the stalled economic recovery, the prolonging Russo-Ukrainian war, and the ongoing negotiations with Venezuela, Iran, and Saudi Arabia, the only certainty is that we live in times of uncertainty. With my empirical analysis based on this assumption, I argue that the optimal investment strategy for the upcoming 6-12 months is to short oil. 
 tags:
 - Economics
 title: Oil Price Forecast

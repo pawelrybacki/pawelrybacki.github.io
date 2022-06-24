@@ -12,7 +12,7 @@ image:
 publication_types:
 - "1"
 publishDate: "2019-12-11T00:00:00Z"
-summary: Does religiosity have an impact on fatalities from violent behavior? Is this impact stronger than the effect of religiosity on fatalities from causes other than violent behavior?
+summary: Does religiosity have an impact on fatalities from violent behavior? Is this impact stronger than the effect of religiosity on fatalities from causes other than violent behavior? In this <a href="religion_health.pdf">paper</a>, I have employed three instrumental variables to find the answers.
 
 tags: [Economics]
 title: The Effects of Religiosity on Fatalities from Violent Behavior

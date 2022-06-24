@@ -13,7 +13,7 @@ image:
 publication_types:
 - "1"
 publishDate: "2017-12-08T00:00:00Z"
-summary: Contemporary French secularism is a product of both a break from religious tradition and a partial compromise with the Catholic Church, meaning that French secularism, in its present form, is incompatible with the French Muslim perspective on the role of religion in public life and fails to approach Islam as a religion with its own unique characteristics, which are distinct from that of Catholicism.
+summary: Contemporary French secularism is a product of both a break from religious tradition and a partial compromise with the Catholic Church, meaning that French secularism, in its present form, is incompatible with the French Muslim perspective on the role of religion in public life and fails to approach Islam as a religion with its own unique characteristics, which are distinct from those of Catholicism.
 
 tags: [Thought]
 title: French Secularism Today—Its Origin and Conflict with French Muslims
