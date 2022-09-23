@@ -3,10 +3,10 @@ date: "2019-12-08T00:00:00Z"
 external_link: ""
 image:
   caption: 
-  
+  focal_point: Smart
+
 summary: This is a project that allows people to share the stories of from their lives or the lives of their relatives. The goal is to save the memories that reflect what people think, feel, observe, say, and not say, in a given place and time. The ambition of the proposed project is collect these memories into one place from which the future generations can take. This is like an encyclopedia for the kind of information a regular encyclopedia won't tell you.
   
-  focal_point: Smart
 tags:
 - Data Science
 title: Collective Memory Project—Stories from the Past. A CS50 Project

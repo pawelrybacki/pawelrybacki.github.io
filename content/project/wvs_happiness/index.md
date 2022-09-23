@@ -3,14 +3,10 @@ date: "2020-05-11T00:00:00Z"
 external_link: ""
 image:
   caption: Photo by <a href="https://unsplash.com/@benwhitephotography?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Ben White</a> on <a href="https://unsplash.com/s/photos/joyful?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
-
-summary: The recipe for happiness and life satisfaction is hard to
-obtain using scientific methods. However, the more careful the
-statistical analysis, the better chance that we understand what makes
-people across the globe feel better. My <a href="wvs_happiness.pdf">project</a> makes the first step
-in this process by performing a quantitative analysis of the World Values Survey data.
-
   focal_point: Smart
+
+summary: The recipe for happiness and life satisfaction is hard to obtain using scientific methods. However, the more careful the statistical analysis, the better chance that we understand what makes people across the globe feel better. My <a href="wvs_happiness.pdf">project</a> makes the first step in this process by performing a quantitative analysis of the World Values Survey data.
+
 tags:
 - Data Science
 title: Predicting Happiness and Life Satisfaction Globally

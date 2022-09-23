@@ -3,8 +3,8 @@ date: "2021-04-15T00:00:00Z"
 external_link: ""
 image:
   caption: Photo by <a href="https://unsplash.com/@at8eqeq3?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Dmitry Grigoriev</a> on <a href="https://unsplash.com/s/photos/bee?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
-summary: This project shows how to download and combine climate data from the NCDC with data on bee colonies from the USDA using R.
   focal_point: Smart
+summary: This project shows how to download and combine climate data from the NCDC with data on bee colonies from the USDA using R.
 tags:
 - Data Science
 title: Bee Colonies and Climate—A Data Project
