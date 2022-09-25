@@ -28,7 +28,7 @@ experience:
     company_logo: uchicago
     location: Chicago, IL
     date_start: '2021-09-27'
-    date_end: ''
+    date_end: '2022-07-29'
     description: |2-
         Methods:
         
